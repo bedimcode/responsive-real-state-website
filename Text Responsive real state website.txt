@@ -1,0 +1,140 @@
+========== HOME ==========
+.home__title
+Discover <br> Most Suitable <br> Property
+
+.home__description
+Find a variety of properties that suit you very easily, 
+forget all difficulties in finding a residence for you
+
+.home__value-number | .home__value-description
+9K <span>+</span>
+Premium <br> Product
+
+2K <span>+</span>
+Happy <br> Customer
+
+28K <span>+</span>
+Awards <br> Winning
+
+========== POPULAR ==========
+.section__subtitle
+Best Choise
+
+.section__title
+Popular Residences<span>.</span>
+
+.popular__price | .popular__title | .popular__description
+<span>$</span>66,356
+Garden City Assat
+Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+
+<span>$</span>35,159
+Gables Luxurious House
+
+<span>$</span>75,043
+Garden Orchard City
+
+<span>$</span>62,024
+Luxurious City Garden
+
+<span>$</span>47,043
+Aliva Private Garden
+
+========== VALUE ==========	
+.section__subtitle
+Our Value
+
+.section__title
+Value We Give To You<span>.</span>
+
+.value__description
+We always ready to help by providing the best service for you. 
+We believe a good place to live can make your life better.
+
+.value__accordion-title | .value__accordion-description
+Best interest rates on the market
+
+Price we provides is the best for you, 
+we guarantee no price changes on your property due 
+to various unexpected costs that may come.
+
+Prevent unstable prices
+
+Best prices on the market 
+
+Security of your data
+
+========== CONTACT ==========
+.section__subtitle
+Contact Us
+
+.section__title
+Easy to Contact us<span>.</span>
+
+.contact__description
+Is there a problem finding your dream home? Need a 
+guide in buying first home? or need a consultation 
+on residential issues? just contact us.
+
+.contact__card-title | .contact__card-description | .contact__card-button
+Call
+022.321.165.19
+Call Now
+
+Chat
+022.321.165.19
+Chat Now
+
+Video Call
+022.321.165.19
+Video Call Now
+
+Message
+022.321.165.19
+Message Now
+
+========== SUBSCRIBE ==========
+.subscribe__title
+Get Started with Holux
+
+.subscribe__description
+Subscribe and find super attractive price
+quotes from us, Find your residence soon
+
+.subscribe__button
+Get Started
+
+========== FOOTER ==========
+.footer__description
+Our vision is to make all people <br> 
+the best place to live for them.
+
+.footer__title | .footer__link
+About
+About Us
+Features
+News & Blog
+
+Company
+How We Work?
+Capital
+Security
+
+Support
+FAQs
+Support center
+Contact Us
+
+Follow us
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.pinterest.com/
+
+.footer__copy
+&#169; Bedimcode. All rigths reserved
+
+.footer__privacy
+Terms & Agreements
+Privacy Policy
